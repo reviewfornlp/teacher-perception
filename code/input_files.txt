@@ -1,0 +1,2 @@
+#SUD_Kannada-PANPOS
+SUD_Marathi-Sample

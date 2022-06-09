@@ -1,0 +1,4 @@
+दिनातही	दिन+ही	N_NN,Acc,Masc,Sing
+आघात	आघात+_	N_NN,Nom,Masc,Sing
+अँग्लोइंडियन	अँग्लोइंडियन+_	N_NN,Nom,Plur
+सायंकाळपर्यंत	सायंकाळ+पर्यंत	N_NN,Acc,Sing
